@@ -1,0 +1,8 @@
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SSL_Channel_Chart\SSL_Channel_Chart\bin\Debug\SSL_Channel_Chart.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SSL_Channel_Chart\SSL_Channel_Chart\bin\Debug\SSL_Channel_Chart.pdb
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SSL_Channel_Chart\SSL_Channel_Chart\bin\Debug\IndicatorInterfaceCSharp.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SSL_Channel_Chart\SSL_Channel_Chart\obj\Debug\SSL_Channel_Chart.csproj.AssemblyReference.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SSL_Channel_Chart\SSL_Channel_Chart\obj\Debug\SSL_Channel_Chart.csproj.CoreCompileInputs.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SSL_Channel_Chart\SSL_Channel_Chart\obj\Debug\SSL_Channel_Chart.csproj.CopyComplete
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SSL_Channel_Chart\SSL_Channel_Chart\obj\Debug\SSL_Channel_Chart.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SSL_Channel_Chart\SSL_Channel_Chart\obj\Debug\SSL_Channel_Chart.pdb

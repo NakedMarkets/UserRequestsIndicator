@@ -1,0 +1,8 @@
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\HullAverage2\HullAverage2\bin\Debug\HullAverage2.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\HullAverage2\HullAverage2\bin\Debug\HullAverage2.pdb
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\HullAverage2\HullAverage2\bin\Debug\IndicatorInterfaceCSharp.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\HullAverage2\HullAverage2\obj\Debug\HullAverage2.csproj.AssemblyReference.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\HullAverage2\HullAverage2\obj\Debug\HullAverage2.csproj.CoreCompileInputs.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\HullAverage2\HullAverage2\obj\Debug\HullAverage2.csproj.CopyComplete
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\HullAverage2\HullAverage2\obj\Debug\HullAverage2.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\HullAverage2\HullAverage2\obj\Debug\HullAverage2.pdb

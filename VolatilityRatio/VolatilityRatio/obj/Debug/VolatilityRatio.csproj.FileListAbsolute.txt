@@ -1,0 +1,8 @@
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VolatilityRatio\VolatilityRatio\bin\Debug\VolatilityRatio.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VolatilityRatio\VolatilityRatio\bin\Debug\VolatilityRatio.pdb
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VolatilityRatio\VolatilityRatio\bin\Debug\IndicatorInterfaceCSharp.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VolatilityRatio\VolatilityRatio\obj\Debug\VolatilityRatio.csproj.AssemblyReference.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VolatilityRatio\VolatilityRatio\obj\Debug\VolatilityRatio.csproj.CoreCompileInputs.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VolatilityRatio\VolatilityRatio\obj\Debug\VolatilityRatio.csproj.CopyComplete
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VolatilityRatio\VolatilityRatio\obj\Debug\VolatilityRatio.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VolatilityRatio\VolatilityRatio\obj\Debug\VolatilityRatio.pdb

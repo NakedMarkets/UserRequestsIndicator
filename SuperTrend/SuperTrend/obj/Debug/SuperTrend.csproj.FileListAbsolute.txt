@@ -1,0 +1,8 @@
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SuperTrend\SuperTrend\bin\Debug\SuperTrend.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SuperTrend\SuperTrend\bin\Debug\SuperTrend.pdb
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SuperTrend\SuperTrend\bin\Debug\IndicatorInterfaceCSharp.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SuperTrend\SuperTrend\obj\Debug\SuperTrend.csproj.AssemblyReference.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SuperTrend\SuperTrend\obj\Debug\SuperTrend.csproj.CoreCompileInputs.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SuperTrend\SuperTrend\obj\Debug\SuperTrend.csproj.CopyComplete
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SuperTrend\SuperTrend\obj\Debug\SuperTrend.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\SuperTrend\SuperTrend\obj\Debug\SuperTrend.pdb
