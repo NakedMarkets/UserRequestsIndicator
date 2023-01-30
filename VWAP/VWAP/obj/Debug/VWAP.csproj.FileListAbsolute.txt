@@ -1,0 +1,8 @@
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VWAP\VWAP\bin\Debug\VWAP.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VWAP\VWAP\bin\Debug\VWAP.pdb
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VWAP\VWAP\bin\Debug\IndicatorInterfaceCSharp.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VWAP\VWAP\obj\Debug\VWAP.csproj.AssemblyReference.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VWAP\VWAP\obj\Debug\VWAP.csproj.CoreCompileInputs.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VWAP\VWAP\obj\Debug\VWAP.csproj.CopyComplete
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VWAP\VWAP\obj\Debug\VWAP.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\VWAP\VWAP\obj\Debug\VWAP.pdb
