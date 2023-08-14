@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KernelFunctions", "KernelFunctions\KernelFunctions.csproj", "{C3F2C82F-32B0-43D0-9453-031A326E00AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3F2C82F-32B0-43D0-9453-031A326E00AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F2C82F-32B0-43D0-9453-031A326E00AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F2C82F-32B0-43D0-9453-031A326E00AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F2C82F-32B0-43D0-9453-031A326E00AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9480FCF-4E15-4CED-A133-342DC8EDDCAB}
+	EndGlobalSection
+EndGlobal

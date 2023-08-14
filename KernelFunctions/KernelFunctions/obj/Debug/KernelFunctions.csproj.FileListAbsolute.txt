@@ -1,0 +1,8 @@
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\KernelFunctions\KernelFunctions\bin\Debug\KernelFunctions.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\KernelFunctions\KernelFunctions\bin\Debug\KernelFunctions.pdb
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\KernelFunctions\KernelFunctions\bin\Debug\IndicatorInterfaceCSharp.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\KernelFunctions\KernelFunctions\obj\Debug\KernelFunctions.csproj.AssemblyReference.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\KernelFunctions\KernelFunctions\obj\Debug\KernelFunctions.csproj.CoreCompileInputs.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\KernelFunctions\KernelFunctions\obj\Debug\KernelFunctions.csproj.CopyComplete
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\KernelFunctions\KernelFunctions\obj\Debug\KernelFunctions.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\KernelFunctions\KernelFunctions\obj\Debug\KernelFunctions.pdb
