@@ -1,0 +1,8 @@
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Andres Line\Andres Line\bin\Debug\Andres Line.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Andres Line\Andres Line\bin\Debug\Andres Line.pdb
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Andres Line\Andres Line\bin\Debug\IndicatorInterfaceCSharp.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Andres Line\Andres Line\obj\Debug\Andres Line.csproj.AssemblyReference.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Andres Line\Andres Line\obj\Debug\Andres Line.csproj.CoreCompileInputs.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Andres Line\Andres Line\obj\Debug\Andres Line.csproj.CopyComplete
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Andres Line\Andres Line\obj\Debug\Andres Line.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Andres Line\Andres Line\obj\Debug\Andres Line.pdb
