@@ -1,0 +1,8 @@
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Macd_TV\Macd_TV\bin\Debug\Macd_TV.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Macd_TV\Macd_TV\bin\Debug\Macd_TV.pdb
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Macd_TV\Macd_TV\bin\Debug\IndicatorInterfaceCSharp.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Macd_TV\Macd_TV\obj\Debug\Macd_TV.csproj.AssemblyReference.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Macd_TV\Macd_TV\obj\Debug\Macd_TV.csproj.CoreCompileInputs.cache
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Macd_TV\Macd_TV\obj\Debug\Macd_TV.csproj.CopyComplete
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Macd_TV\Macd_TV\obj\Debug\Macd_TV.dll
+E:\Backups\Backup-NakedMarkets\IndicatorConversionRequests\Macd_TV\Macd_TV\obj\Debug\Macd_TV.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MACD_TV", "Macd_TV\MACD_TV.csproj", "{E6200772-2B22-4399-A0A5-E6D3354F37DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6200772-2B22-4399-A0A5-E6D3354F37DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6200772-2B22-4399-A0A5-E6D3354F37DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6200772-2B22-4399-A0A5-E6D3354F37DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6200772-2B22-4399-A0A5-E6D3354F37DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F166E5E-CB17-41B5-86A3-F74D606C2ABC}
+	EndGlobalSection
+EndGlobal
